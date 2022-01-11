@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "name": "social-media",
+  "description": "This is a solution to the [Social media dashboard with theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "version": "1.0.0",
+  "main": "index.js",
+  
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnebeliEmmanuel/social-dashboard.git"
+  },
+  "author": "koko codes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnebeliEmmanuel/social-dashboard/issues"
+  },
+  "homepage": "https://github.io/EnebeliEmmanuel/social-dashboard"
+}
